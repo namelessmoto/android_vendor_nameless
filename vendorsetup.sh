@@ -16,6 +16,8 @@ add_lunch_combo nameless_i9500-userdebug
 add_lunch_combo nameless_jflte-userdebug
 #L
 add_lunch_combo nameless_ls980-userdebug
+#M
+add_lunch_combo nameless_moto_msm8960dt-userdebug
 #N
 add_lunch_combo nameless_n7000-userdebug
 #P
